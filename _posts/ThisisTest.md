@@ -1,4 +1,5 @@
-layout: post
-title: "Test"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+layout: page
+title: "PAGE-TITLE"
+permalink: https://mndrew.github.io/My-Multipage-Github-Website/pages/test
+
+
